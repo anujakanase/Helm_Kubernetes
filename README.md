@@ -377,9 +377,3 @@ Each chart contains:
 - Configurable values
 - Templates
 - Metadata
-
----
-
-# Author
-
-Created as part of Kubernetes & Helm learning to demonstrate Helm chart creation, templating, and deployment of microservices.
