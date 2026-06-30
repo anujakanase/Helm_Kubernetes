@@ -1,25 +1,3 @@
-# Helm Charts for Payments & Shipping Services
-
-This repository contains Helm charts for deploying the **Payments** and **Shipping** microservices on a Kubernetes cluster.
-
-## Repository Structure
-
-```
-helm-repo/
-├── payments/
-│   ├── Chart.yaml
-│   ├── values.yaml
-│   └── templates/
-│
-├── shipping/
-│   ├── Chart.yaml
-│   ├── values.yaml
-│   └── templates/
-│
-└── README.md
-```
-
----
 
 # What is Helm?
 
@@ -166,7 +144,27 @@ Example:
 ```
 
 ---
+# Helm Charts for Payments & Shipping Services
 
+This repository contains Helm charts for deploying the **Payments** and **Shipping** microservices on a Kubernetes cluster.
+
+## Repository Structure
+
+```
+helm-repo/
+├── payments/
+│   ├── Chart.yaml
+│   ├── values.yaml
+│   └── templates/
+│
+├── shipping/
+│   ├── Chart.yaml
+│   ├── values.yaml
+│   └── templates/
+│
+└── README.md
+```
+---
 # Helm Architecture
 
 ```
